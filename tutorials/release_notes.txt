@@ -1,0 +1,94 @@
+@Version 3.0
+*13-May-2022
+-App Logo Changed to BISP Nashunuma
+@Version 3.1
+*26-May-2022
+-Dropdown of UCs and Village  in mother information will allow to add text manually
+-Potential Beneficiaries added in drawer side menu and allow to register them.
+-Retype Utilized SNF option is added when you update Quarter/Trimester
+-Response message first character trimmed issue fixed when update Quarter/Trimester
+@Version 3.2
+*02-Aug-2022
+-QR Code Reading support for SNF using device camera. This will saves time for FC agents while data entry 
+-Dropdown of UCs and Village in new Beneficiary information will allow to add text manually, if there is no suitable UC or Village found in available list 
+-Husband Alive status is blank if no data found from NADRA or DB. 
+-Restrict multiple clicks on a button i.e. Save/Update Trimester/Quarter, Add Child, Search CNIC .
+-Retype Utilized SNF option is added when you update Quarter/Trimester. To prevent wrong utilized SNF values
+-Site ID/Name length in dropdown is fixed. Facing issue during new registration of FC agent
+@Version 3.3
+*13-Aug-2022
+-Crash fix on MAM case
+-Added Logs for crash monitoring
+-Added analytics for app usage and monitoring
+-Added Firebase support for crashlytics and other future developments
+-Export to Excel feature in Potential Beneficiary
+-Export feature of all app
+@Version 3.4
+*31-Oct-2022
+-Awareness session issue fixed  
+-Visit date for quarter & trimester fix
+-App auto update based on Province, District, Tehsil, UC, individual user, or overall country
+-Auto logout for inactive or blocked users
+-Dashboard efficient loading without waiting for dialog to dismiss
+-Improved export feature for overall app. 
+-Attendance fully functional
+-Retype SNF popup fix
+-Crash fix on different screens
+-App size reduced from 24 MB to 14 MB. Removed unnecessary things
+@Version 3.5
+*08-Nov-2022
+-Auto update feature optimized
+-Crash Fixes
+-Design issue fixes on dashboard
+-Date Parsing issues fixes i.e App crashes on month parsing September, UK SEPT and US SEP.
+@Version 3.6.0
+*24-Jan-2022
+-Bank Account Feature is added to record the account number of beneficiary on Beneficiary Information Screen under Three dots(.) menu
+-Icons and sequences of feature in side drawer menu changed to meaningful depiction and usage
+-Crash Fixes on Due Compliance
+-Separate QR Code Scanner is added in Side Drawer to avoid use of Third Party QR Scanner
+-QR Code scanner is also added in Beneficiary Information Screen under Three dots(.) menu
+-Manual App application download and install option is added if there is some issue in auto installation
+-Manually check app update is available in side drawer
+-App Link sharing by QR Code, Copy link and direct sharing feature is added in side drawer
+-Release Notes is added to track changes in previous and current versions since Ver.3.0 with released dates
+@Version 3.6.1 - 3.6.5
+*01-Feb-2022 - 20-Aug-2023
+-Device Tagging added so that one user is allowed to use one device
+-Old methods of api are removed and new were integrated to restrict old versions of app
+-App crash fixes
+-Improvements in UI and UX
+-MUAC, WEIGHT and HEIGHT values limit applied on beneficiary quarter & trimester save
+-Popup added for last quarter/trimester payment amount received by beneficiary
+-Device IMEI QR code is added
+@Version 3.6.6
+*21-Aug-2023
+-Adolescent Girls module added
+-Bform Mandatory in 2nd Quarter
+-BNP add child module issues fixed
+-Crash fixed on Dashboard Features
+@Version 3.6.8
+*24-Oct-2023
+-Mark Vaccination mandatory for each quarter, on followup
+-Saved reports share feature is fixed on Amber tabs
+-Device ID & QR code removed from login screen.
+-Device ID & QR code will be visible on OTP screen only if user device is not tagged.
+-CSV third party app download available for amber tabs
+@Version 3.6.9 - 3.7.0
+*29-Dec-2023  -  20-Jan-2024
+-Auto Logout feature after 5 minutes if no activity performed in App
+-Force logout after 5 minutes if another app is used in tab a
+-Force Logout feature command to logout all devices
+-Force update app to download & install app latest version
+-App download feature optimized for slow internet regions i.e download resumes if internet is unstable
+-Batch Number is mandatory in Quarter & Trimester
+-SNF stock recording feature
+-User guide "How to enter stock" also added in module
+-Increased Logout time to 30 minutes
+-Other Bugs reported in 3.6.9 fixed in 3.7.0
+@Version 3.7.1
+*14-Feb-2024
+-Force Stock Entry: App will not proceed further until user adds the previous day record( Except Sunday)
+-Negative Stock entry restricted in Stock Module
+-Auto logout beeper added to alert on logout after 30 minutes
+-Bank message duration increased after qua/tri save/update
