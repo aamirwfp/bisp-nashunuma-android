@@ -84,7 +84,7 @@
 -Batch Number is mandatory in Quarter & Trimester
 -SNF stock recording feature
 -User guide "How to enter stock" also added in module
--Increased Logout time to 30 minutes
+-Increased Logout time to 30 minute
 -Other Bugs reported in 3.6.9 fixed in 3.7.0
 @Version 3.7.1
 *14-Feb-2024
@@ -92,3 +92,10 @@
 -Negative Stock entry restricted in Stock Module
 -Auto logout beeper added to alert on logout after 30 minutes
 -Bank message duration increased after qua/tri save/update
+@Version 3.7.2
+*25-Mar-2024
+-RUTF and IFA enabled in stock entry module
+-IFA entry will be allowed if the FC is from AN region
+-SAM Type is added in Save Quarter if MUAC is lower than 11.5
+-Video tutorial is added in stock entry module
+-Admins and Developers are excempted from Force Stock entry.
