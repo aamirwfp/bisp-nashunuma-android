@@ -98,4 +98,5 @@
 -IFA entry will be allowed if the FC is from AN region
 -SAM Type is added in Save Quarter if MUAC is lower than 11.5
 -Video tutorial is added in stock entry module
--Admins and Developers are excempted from Force Stock entry.
+-Admins and Developers are excempted from Force Stock entry
+-Zoom feature is added to view the stock
