@@ -100,3 +100,11 @@
 -Video tutorial is added in stock entry module
 -Admins and Developers are excempted from Force Stock entry
 -Zoom feature is added to view the stock
+@Version 3.7.4
+*23-May-2024
+-Add new stock button will not visible if there is no network. To avoid errors 
+-Due Compliances module redsigned 
+-If a child is Post Delivered then it will be marked as Post Delivered Yes.
+-On Compliance Screen Child's Post Delivered status added with YES/NO
+-Vaccination/Booklet picture upload to server is fixed
+-Pregnancy after Post Delivered Child's Death is enabled
