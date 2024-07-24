@@ -109,3 +109,8 @@
 -Vaccination/Booklet picture upload to server is fixed
 -Pregnancy after Post Delivered Child's Death is enabled
 -Additional user information is added in User Settings Menu
+@Version 3.7.5
+*24-Jul-2024
+-IFA entry added in Quarter-1 of Adolescent Girls
+-Check points added for staff before adding New Adolescent Child
+-On Successful OTP verification, message dialog removed for smooth flow and better User Experience
