@@ -114,3 +114,7 @@
 -IFA entry added in Quarter-1 of Adolescent Girls
 -Check points added for staff before adding New Adolescent Child
 -On Successful OTP verification, message dialog removed for smooth flow and better User Experience
+@Version 3.7.6
+*12-Aug-2024
+-Tehsil, UC and Village edit option is removed on Mother Enrollment Form
+-Fix minor issues observed in previous release while saving Quarters
