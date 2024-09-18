@@ -118,3 +118,9 @@
 *12-Aug-2024
 -Tehsil, UC and Village edit option is removed on Mother Enrollment Form
 -Fix minor issues observed in previous release while saving Quarters
+@Version 3.7.7
+*19-Sept-2024
+-Vaccination Card Number entry via QR Code
+-Adolescent first quarter IFA distribution enable issue fixed
+-Adolescent girls After marriage continue or not option added
+-Adolescent girls education option added Yes(WET),YES(Other) and NO
