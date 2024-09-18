@@ -123,4 +123,4 @@
 -Vaccination Card Number entry via QR Code
 -Adolescent first quarter IFA distribution enable issue fixed
 -Adolescent girls After marriage continue or not option added
--Adolescent girls education option added Yes(WET),YES(Other) and NO
+-Adolescent girls Education Status option added Yes(WET),YES(Other) and NO
