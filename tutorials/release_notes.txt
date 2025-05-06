@@ -127,7 +127,17 @@
 @Version 3.7.8
 *20-Oct-2024
 -IFA Distribution in first quarter and other fixes
-@Version 3.7.7
+@Version 3.7.9
 *03-Dec-2024
 -Vaccination Card Number manual entry
 -Server URL changes for new Banks payment
+@Version 3.8.0 - 3.8.4
+*03-Dec-2024 - 17-April-2025
+-App Revamped & Testing
+-Doctor Verification Image Mandatory for Pregancy Registaration
+-Issue fixes
+-Image optimization in qua/tri for uploads
+@Version 3.8.5
+*17-April-2025
+-Logo Changed
+-MMS SNF added for MUAC above 25 for mothers
