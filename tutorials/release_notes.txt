@@ -141,3 +141,7 @@
 *29-April-2025
 -Logo Changed
 -MMS SNF added for MUAC above 25 for mothers
+*15-August-2025 - 25081514
+-Adolescents Child DOB issue resolved
+-Death Marking disabled in Quarter-1
+-Registaration Book No. retsticted to 40 Char while adding new child
