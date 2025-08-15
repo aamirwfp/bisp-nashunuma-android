@@ -144,7 +144,8 @@
 @Version 3.8.5(25081514)
 *15-August-2025 
 -Adolescents Child DOB issue resolved
--Death Marking disabled in Quarter-1
+-Death Marking disabled in Quarter 1
 -Registaration Book No. retsticted to 40 Char while adding new child
+
 
 
