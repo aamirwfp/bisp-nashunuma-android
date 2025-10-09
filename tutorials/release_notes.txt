@@ -146,6 +146,16 @@
 -Adolescents Child DOB issue resolved
 -Death Marking disabled in Quarter 1
 -Registaration Book No. retsticted to 40 Char while adding new child
+@Version 3.8.5(25100312)
+*09-September-2025 
+-QR CODE change to Corton Number
+-Age restriction on Mother pregnancy enrollment
+-3 Months Gap between new pregnancy after Child Death, Abortion, Miscarriage or Stillbirth
+-Doble Entry fixed in mother enrollment
+-SAM Case NULL Fix
+-Post delivery child addition window fixed (Visible till 6 months after delivery) 
+-Registaration Book No. retsticted to 40 Char while adding new child
+
 
 
 
