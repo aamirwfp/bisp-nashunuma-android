@@ -155,6 +155,12 @@
 -SAM Case NULL Fix
 -Post delivery child addition window fixed (Visible till 6 months after delivery) 
 -Registaration Book No. retsticted to 40 Char while adding new child
+@Version 3.8.5(25111818)
+*18-November-2025 
+-Pregnancy start date restricted (Must be later than last delivery date)
+-MMS Stock update fixed
+-Beneficiaries MMS followup fixed
+
 
 
 
