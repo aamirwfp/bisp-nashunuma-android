@@ -160,6 +160,22 @@
 -Pregnancy start date restricted (Must be later than last delivery date)
 -MMS Stock update fixed
 -Beneficiaries MMS followup fixed
+@Version 3.8.5(25120212)
+*02-December-2025 
+-Stock MMS issues fixed
+-Previous quarter/trimester Utilization restricted till update qua/tri
+-MMS label fixed
+@Version 3.8.5(25121511)
+*15-December-2025 
+-Vaccinations auto populated if Vaccination Card ID is entered 
+-Anaemia Option integrated (if yes then no MMS will be distributed)
+-In case of Anaemia beneficiary will be referred for treatment and on follow-up the treatment status will be updated 
+-Anaemia Lab report image attachment
+-If distributing MMS Other MMS Source option is added
+-Previous quarter/trimester Utilization is enabled if 0 distribution found
+-For missed quarters with no vaccination Save/Update button is omitted
+
+
 
 
 
