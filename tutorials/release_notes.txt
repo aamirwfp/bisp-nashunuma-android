@@ -180,6 +180,22 @@
 -MMS Eligibility calculations done on frontend
 -Obslete library methods updated/removed
 -Auto Vaccination issues fixed 
+@Version 3.8.5(26040310)
+*15-April-2026
+-On Post Delivery Staff must Save Trimester 2&3 which were missed
+-MMS Sustainability : Once MMS distributed then beneficiary will get MMS in every quarter/Tri 
+-MMS Restriction for MAM : If beneficiary is Malnourished, then she will not get MMS in subsequent quarters
+-Vaccination card restricted to 14 Digits in
+-Delivery Statuses are bound with calendar in Tri 2&3
+-On Tri 2,3 and PostDelivery, Calendar Dates Limited, Staff will only select the date after last visit from last non-missed trimester to mark Abortion,Misscarriage,Stillbirth
+@Version 3.8.5(26062216)
+*22-June-2026
+-Registration booklet number bind with Province district and FC prefix during Pregnancy registration and child addition
+-On post-delivery there are two new parameters were added having values of Tri-3 ID and P.D
+-Previous Vaccination validation while saving trimester 3 and on Post delivery
+-Child addition with B-form is restricted if their D.O.B is between 3 months before Pregnancy registration till current date if women is Pregnant and yet not   marked delivered. (This is implemented to allow user to add post delivered child after marking delivery status.)
+
+
 
 
 
